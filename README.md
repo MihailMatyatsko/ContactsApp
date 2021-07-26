@@ -10,3 +10,8 @@ I do not really know, what else i can write here. Maybe some concrete informatio
 - all contacts data is saved in .plist file
 - for interaction with this files, you will find special class - Plist File Manager.
 - in general, here you can find used userDefaults, TableView, some sorting, model data classes and a lot of IBOutlets from storyboard)
+
+<h align="center"> APPLICATION DESIGN    </h>
+<p align="center"> 
+  
+  </p>
