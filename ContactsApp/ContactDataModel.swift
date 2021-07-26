@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import UIKit
 
 struct Contact {
     var dataSourceFileName: String?
