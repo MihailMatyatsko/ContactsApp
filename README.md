@@ -1,5 +1,5 @@
 # ContactsApp
-One of the first UI app in Swift from me)
+One of the first UI apps in Swift from me)
 
 
 As a beginner i've always tryed to find some easily written code, with comments and all other, which was nessessary to me.
