@@ -14,12 +14,8 @@ I do not really know, what else i can write here. Maybe some concrete informatio
 <p align="center"> APPLICATION DESIGN    </p>
 
 <p align="center"> 
-   <img width="425" alt="Снимок экрана 2021-07-26 в 15 55 48" src="https://user-images.githubusercontent.com/87068027/126992553-660d03b7-10a7-4056-b9b8-    9568f417a5df.png">
-  
-<img width="425" alt="Снимок экрана 2021-07-26 в 15 56 39" src="https://user-images.githubusercontent.com/87068027/126992556-bf1ce00c-ce23-47ca-89f4- 84d8a18dcb68.png">
-  
-<img width="425" alt="Снимок экрана 2021-07-26 в 15 56 44" src="https://user-images.githubusercontent.com/87068027/126992557-cba9d861-917a-400b-8f76-428aefc71589.png">
-  
-<img width="425" alt="Снимок экрана 2021-07-26 в 15 56 51" src="https://user-images.githubusercontent.com/87068027/126992558-287078ef-eb51-4770-aa22-aabc94cf57e3.png">
-  
+ <img width="425" alt="Снимок экрана 2021-07-26 в 15 55 48" src="https://user-images.githubusercontent.com/87068027/126992820-9a57c219-88d1-4020-855f-de0d58140c78.png">
+<img width="425" alt="Снимок экрана 2021-07-26 в 15 56 39" src="https://user-images.githubusercontent.com/87068027/126992827-1c687141-5868-4635-91bd-4a0bbf85dc01.png">
+<img width="425" alt="Снимок экрана 2021-07-26 в 15 56 44" src="https://user-images.githubusercontent.com/87068027/126992843-5a91fb32-fa65-456c-8ece-001da4675c83.png">
+<img width="425" alt="Снимок экрана 2021-07-26 в 15 56 51" src="https://user-images.githubusercontent.com/87068027/126992860-3a160474-6f99-4497-a6fb-4ef8b1837395.png">
   </p>
